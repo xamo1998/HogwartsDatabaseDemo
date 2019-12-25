@@ -1,26 +1,14 @@
 {
-	"Gryffindor" : {
-		"id0" : {
-			"name" : "Harry",
-			"surname" : "Potter",
-			"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
-		},
-		"id1" : {
-			"name" : "Ron",
-			"surname" : "Weasley",
-			"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
-		}
+	
+	"id0" : {
+		"name" : "Harry",
+		"surname" : "Potter",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
 	},
-
-	"Ravenclaw" : {
-		
-	},
-
-	"Slytherin" : {
-		
-	},
-
-	"Hufflepuff" : {
-		
+	"id1" : {
+		"name" : "Ron",
+		"surname" : "Weasley",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
 	}
+	
 }
