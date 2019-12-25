@@ -5,36 +5,42 @@
 		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
 	},
+	
 	"id01" : {
 		"name" : "George",
 		"surname" : "Weasley",
 		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/george_weasley.jpg"
 	},
+
 	"id02" : {
 		"name" : "Ron",
 		"surname" : "Weasley",
 		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/ron_weasley.jpg"
 	},
+
 	"id03" : {
 		"name" : "Hermione",
 		"surname" : "Granger",
 		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/hermione_granger.jpg"
 	},
+
 	"id04" : {
 		"name" : "Neville",
 		"surname" : "Longbottom",
 		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/neville_longbottom.jpg"
 	},
+
 	"id05" : {
 		"name" : "Parvati",
 		"surname" : "Patil",
 		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/parvati_patil.jpg"
 	},
+
 	"id06" : {
 		"name" : "Draco",
 		"surname" : "Malfoy",
