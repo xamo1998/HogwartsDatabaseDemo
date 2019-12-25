@@ -7,13 +7,13 @@
 	},
 	"id01" : {
 		"name" : "George",
-		"surname" : "Weasly",
+		"surname" : "Weasley",
 		"house" : "Gryffindor",
-		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/george_weasly.jpg"
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/george_weasley.jpg"
 	},
 	"id02" : {
 		"name" : "Ron",
-		"surname" : "Weasly",
+		"surname" : "Weasley",
 		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/ron_weasley.jpg"
 	},
