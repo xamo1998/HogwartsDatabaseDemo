@@ -3,7 +3,7 @@
 		"id0" : {
 			"name" : "Harry",
 			"surname" : "Potter",
-			"picture" : ""
+			"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
 		}
 	},
 
