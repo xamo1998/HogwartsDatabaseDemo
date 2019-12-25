@@ -1,0 +1,21 @@
+{
+	"Gryffindor" : {
+		"id0" : {
+			"name" : "Harry",
+			"surname" : "Potter",
+			"picture" : ""
+		}
+	},
+
+	"Ravenclaw" : {
+		
+	},
+
+	"Slytherin" : {
+		
+	},
+
+	"Hufflepuff" : {
+		
+	}
+}
