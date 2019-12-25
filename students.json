@@ -1,53 +1,155 @@
 {
 	
-	"id0" : {
-		"name" : "Harry0",
+	"id00" : {
+		"name" : "Harry",
 		"surname" : "Potter",
 		"house" : "Gryffindor",
-		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
-	},
-	"id1" : {
-		"name" : "Ron1",
-		"surname" : "Weasley",
-		"house" : "Ravenclaw",
-		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
-	},
-	"id2" : {
-		"name" : "Harry2",
-		"surname" : "Potter",
-		"house" : "Slytherin",
-		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
-	},
-	"id3" : {
-		"name" : "Ron3",
-		"surname" : "Weasley",
-		"house" : "Slytherin",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
 	},
 
-	"id4" : {
-		"name" : "Harry4",
-		"surname" : "Potter",
+	"id01" : {
+		"name" : "George",
+		"surname" : "Weasly",
 		"house" : "Gryffindor",
-		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/george_weasly.jpg"
 	},
-	"id5" : {
-		"name" : "Ron5",
-		"surname" : "Weasley",
+	"id02" : {
+		"name" : "Ron",
+		"surname" : "Weasly",
+		"house" : "Gryffindor",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/ron_weasly.jpg"
+	},
+	"id03" : {
+		"name" : "Hermione",
+		"surname" : "Granger",
+		"house" : "Gryffindor",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/hermione_granger.jpg"
+	},
+
+	"id04" : {
+		"name" : "Neville",
+		"surname" : "Longbottom",
+		"house" : "Gryffindor",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/neville_longbottom.jpg"
+	},
+
+	"id05" : {
+		"name" : "Parvati",
+		"surname" : "Patil",
+		"house" : "Gryffindor",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/parvati_patil.jpg"
+	},
+
+	"id06" : {
+		"name" : "Draco",
+		"surname" : "Malfoy",
+		"house" : "Slytherin",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/draco_malfoy.png"
+	},
+
+	"id07" : {
+		"name" : "Vincent",
+		"surname" : "Crabble",
+		"house" : "Slytherin",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/vincent_crabble.jpg"
+	},
+
+	"id08" : {
+		"name" : "Gregory",
+		"surname" : "Goyle",
+		"house" : "Slytherin",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/gregory_goyle.jpg"
+	},
+
+	"id09" : {
+		"name" : "Theodore",
+		"surname" : "Nott",
+		"house" : "Slytherin",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/theodore_nott.jpg"
+	},
+
+	"id10" : {
+		"name" : "Pansy",
+		"surname" : "Parkinson",
+		"house" : "Slytherin",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/pansy_parkinson.png"
+	},
+
+	"id11" : {
+		"name" : "Blaise",
+		"surname" : "Zabini",
+		"house" : "Slytherin",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/blaise_zabini.png"
+	},
+
+	"id12" : {
+		"name" : "Luna",
+		"surname" : "Lovegood",
 		"house" : "Ravenclaw",
-		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/luna_lovegood.jpg"
 	},
-	"id6" : {
-		"name" : "Harry6",
-		"surname" : "Potter",
-		"house" : "HufflePuff",
-		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
+
+	"id13" : {
+		"name" : "Myrtle",
+		"surname" : "Warren",
+		"house" : "Ravenclaw",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/myrtle_warren.png"
 	},
-	"id7" : {
-		"name" : "Ron8",
-		"surname" : "Weasley",
-		"house" : "Gryffindor",
-		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
-	}
+
+	"id14" : {
+		"name" : "Padma",
+		"surname" : "Patil",
+		"house" : "Ravenclaw",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/padma_patil.png"
+	},
+
+	"id15" : {
+		"name" : "Michael",
+		"surname" : "Corner",
+		"house" : "Ravenclaw",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/michael_corner.jpg"
+	},
+
+	"id16" : {
+		"name" : "Cho",
+		"surname" : "Chang",
+		"house" : "Ravenclaw",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/cho_chang.jpg"
+	},
+
+	"id17" : {
+		"name" : "Cedric",
+		"surname" : "Diggory",
+		"house" : "Hufflepuff",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/cedric_diggory.png"
+	},
+
+	"id18" : {
+		"name" : "Hannah",
+		"surname" : "Abbott",
+		"house" : "Hufflepuff",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/hannah_abbott.jpg"
+	},
+
+	"id19" : {
+		"name" : "Susan",
+		"surname" : "Bones",
+		"house" : "Hufflepuff",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/susan_bones.png"
+	},
+
+	"id20" : {
+		"name" : "Ernie",
+		"surname" : "Macmillan",
+		"house" : "Hufflepuff",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/ernie_macmillan.jpg"
+	},
+
+	"id21" : {
+		"name" : "Justin",
+		"surname" : "Finch-Fletchley",
+		"house" : "Hufflepuff",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/justin_finch_fletchley.png"
+	},
 	
 }
