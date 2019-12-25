@@ -1,13 +1,52 @@
 {
 	
 	"id0" : {
-		"name" : "Harry",
+		"name" : "Harry0",
 		"surname" : "Potter",
+		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
 	},
 	"id1" : {
-		"name" : "Ron",
+		"name" : "Ron1",
 		"surname" : "Weasley",
+		"house" : "Ravenclaw",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
+	},
+	"id2" : {
+		"name" : "Harry2",
+		"surname" : "Potter",
+		"house" : "Slytherin",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
+	},
+	"id3" : {
+		"name" : "Ron3",
+		"surname" : "Weasley",
+		"house" : "Slytherin",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
+	},
+
+	"id4" : {
+		"name" : "Harry4",
+		"surname" : "Potter",
+		"house" : "Gryffindor",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
+	},
+	"id5" : {
+		"name" : "Ron5",
+		"surname" : "Weasley",
+		"house" : "Ravenclaw",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
+	},
+	"id6" : {
+		"name" : "Harry6",
+		"surname" : "Potter",
+		"house" : "HufflePuff",
+		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
+	},
+	"id7" : {
+		"name" : "Ron8",
+		"surname" : "Weasley",
+		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
 	}
 	
