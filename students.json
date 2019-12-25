@@ -1,12 +1,10 @@
 {
-	
 	"id00" : {
 		"name" : "Harry",
 		"surname" : "Potter",
 		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/harry_potter.jpg"
 	},
-
 	"id01" : {
 		"name" : "George",
 		"surname" : "Weasly",
@@ -25,21 +23,16 @@
 		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/hermione_granger.jpg"
 	},
-
 	"id04" : {
 		"name" : "Neville",
 		"surname" : "Longbottom",
 		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/neville_longbottom.jpg"
 	},
-
 	"id05" : {
 		"name" : "Parvati",
 		"surname" : "Patil",
 		"house" : "Gryffindor",
 		"picture" : "https://raw.githubusercontent.com/xamo1998/HogwartsDatabaseDemo/master/img/parvati_patil.jpg"
 	},
-
-	
-	
 }
